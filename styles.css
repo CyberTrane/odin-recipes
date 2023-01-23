@@ -4,23 +4,24 @@ body {
     background-color: cyan;
 }
 
-h1 {
+h1, h3 {
     font-family: Helvetica, sans-serif;
-    color: rgb(132, 0, 132);
+    color: navy;
 }
 
-a {
-    font-size: 18px;
+h1 {
+    font-size: 44px;
 }
 
-a:link {
-    color: silver;
+h3 {
+    font-size: 30px;
 }
 
-a:hover {
-    color: whitesmoke;
+p, li, a:link {
+    color: firebrick;
+    font-size: 20px;
 }
 
-a:visited {
-    color: rgba(0, 0, 0, 0.607);
+a:hover, a:visited {
+    color: darksalmon;
 }
