@@ -20,6 +20,7 @@ h3 {
 p, li, a:link {
     color: firebrick;
     font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 a:hover, a:visited {
